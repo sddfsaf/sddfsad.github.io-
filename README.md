@@ -1,4 +1,4 @@
-<!--https://themes.3rdwavemedia.com/bootstrap-templates/resume/risen-free-bootstrap-5-dark-mode-resume-cv-template-for-developers/*/-->
+<!--https://themes.3rdwavemedia.com/bootstrap-templates/resume/risen-free-bootstrap-5-dark-mode-resume-cv-template-for-developers/-->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -31,7 +31,279 @@
   <link id="theme-style" rel="stylesheet" href="assets/css/risen.css">
   </head>
   <body>
-    <h1>我的簡介<h1>
+   <div class="container-fluid">
+			
+			<div class="main-content-wrapper">
+				<div class="container-fluid">
+					<div class="top-bar text-center position-relative">
+						<div class="top-bar-inner">
+							
+							<a class="btn btn-primary top-bar-cta" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/risen-free-bootstrap-5-dark-mode-resume-cv-template-for-developers/">Hire Me</a>
+					
+							<ul class="social-list list-inline mx-auto">
+								<li class="list-inline-item me-0 me-md-1 me-lg-2"><a href="#"><i class="fa-brands fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item me-0 me-md-1 me-lg-2"><a href="#"><i class="fa-brands fa-github fa-fw"></i></a></li>
+								
+								<li class="list-inline-item me-0 me-md-1 me-lg-2"><a href="#"><i class="fa-brands fa-linkedin-in fa-fw"></i></a></li>
+								
+								<li class="list-inline-item me-0 me-md-1 me-lg-2"><a href="#"><i class="fa-brands fa-stack-overflow fa-fw"></i></a></li>
+								
+							</ul><!--//social-list-->
+							
+						</div><!--//top-bar-inner-->
+						
+					</div><!--//top-bar-->
+			
+					<div class="resume-wrapper mx-auto rounded-2">
+						<div class="resume-header px-4 px-lg-5">
+							<div class="resume-profile-holder text-center">
+								<img class="resume-profile-pic rounded-circle" src="assets/images/profile.png" alt="image">
+								
+								<h2 class="resume-name text-uppercase">王東亮 </h2>
+								<div class="resume-role-title text-uppercase">Senior 大學生</div>
+								<div class="resume-contact mt-4">
+									<ul class="resume-contact-list list-unstyled list-inline mb-0 justify-content-between">
+										<li class="list-inline-item me-md-3 me-lg-5"><i class="resume-contact-icon bi bi-telephone-inbound me-2"></i> +123-4567890</li>
+										<li class="list-inline-item me-md-3 me-lg-5"><i class="resume-contact-icon bi bi-envelope me-2"></i> hello@yourwebsite.com</li>
+										<li class="list-inline-item me-lg-5"><i class="resume-contact-icon bi bi-globe me-2"></i> www.yourwebsite.com</li>
+									</ul>
+								</div><!--//resume-contact-->
+							</div><!--//profile-holder-->
+						</div><!--//resume-header-->
+						
+						<div class="resume-body p-4 p-lg-5">
+							<div class="row">
+								<div class="col-main col-12 col-lg-8 pe-lg-4">
+									<section class="resume-summary-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-2 py-lg-3"><i class="resume-section-heading-icon bi bi-person me-2"></i>關於我e</h3>
+										<div class="resume-summary-desc">
+											我是王東亮
+										</div>
+									</section><!--//resume-section-->
+									
+									<hr>
+									
+									<section class="resume-experience-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i class="resume-section-heading-icon bi bi-briefcase me-2"></i>求學經歷</h3>
+										<div class="resume-timeline position-relative">
+										    <article class="resume-timeline-item position-relative pb-5">
+											    
+											    <div class="resume-timeline-item-header mb-2">
+												    
+												    <div class="resume-position-meta d-flex justify-content-between mb-1">
+													    <div class="resume-position-time">2022 - 現在</div>
+													    <div class="resume-company-name">大學</div>
+												    </div>
+											        <h3 class="resume-position-title mb-1">學生</h3>
+
+											    </div><!--//resume-timeline-item-header-->
+											    <div class="resume-timeline-item-desc">
+												 
+												   
+												    <ul class="resume-timeline-list">
+													    <li> </li>
+													    <li></li>
+													    
+													    <li></li>
+													    <li></li>
+												    </ul>
+												    
+											    </div><!--//resume-timeline-item-desc-->
+		
+										    </article><!--//resume-timeline-item-->
+								    
+										    <article class="resume-timeline-item position-relative pb-5">
+
+											    <div class="resume-timeline-item-header mb-2">
+												    
+												    <div class="resume-position-meta d-flex justify-content-between mb-1">
+													    <div class="resume-position-time">2019 - 2022</div>
+													    <div class="resume-company-name">高中</div>
+												    </div>
+											        <h3 class="resume-position-title mb-1">學生</h3>
+
+											    </div><!--//resume-timeline-item-header-->
+											    <div class="resume-timeline-item-desc">
+												    <ul class="resume-timeline-list">
+													    
+													    <li></li>
+													    <li></li>
+													    <li></li>
+												    </ul>
+												    
+											    </div><!--//resume-timeline-item-desc-->
+		
+										    </article><!--//resume-timeline-item-->
+										    <article class="resume-timeline-item position-relative">
+
+											    <div class="resume-timeline-item-header mb-2">
+												    
+												    <div class="resume-position-meta d-flex justify-content-between mb-1">
+													    <div class="resume-position-time">2016 - 2019</div>
+													    <div class="resume-company-name">國中</div>
+												    </div>
+											        <h3 class="resume-position-title mb-1">學生</h3>
+
+											    </div><!--//resume-timeline-item-header-->
+											    <div class="resume-timeline-item-desc">
+												    <ul class="resume-timeline-list">
+													    
+													    <li></li>
+													    <li></li>
+													    <li></li>
+													   
+												    </ul>
+												    
+											    </div><!--//resume-timeline-item-desc-->
+		
+										    </article><!--//resume-timeline-item-->
+							            </div><!--//resume-timeline-->
+									</section><!--//resume-experience-section-->
+								</div><!--//col-8-->
+								<div class="col-12 col-lg-4 ps-lg-4">
+									
+									<section class="resume-skills-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i class="resume-section-heading-icon bi bi-gear me-2"></i>Tech Stack</h3>
+										
+										<ul class="list-unstyled">
+								        <li class="mb-2">
+								            <div class="resume-skill-name">JavaScript</div>
+											<div class="progress resume-progress" role="progressbar" aria-label="Basic example" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100">
+											  <div class="progress-bar resume-progress-bar" style="width: 98%"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">ReactJS</div>
+								            <div class="progress resume-progress" role="progressbar" aria-label="Basic example" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+											  <div class="progress-bar resume-progress-bar" style="width: 95%"></div>
+											</div>
+									        
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">Python</div>
+									        <div class="progress resume-progress" role="progressbar" aria-label="Basic example" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">
+											  <div class="progress-bar resume-progress-bar" style="width: 92%"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">MongoDB</div>
+									        <div class="progress resume-progress" role="progressbar" aria-label="Basic example" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100">
+											  <div class="progress-bar resume-progress-bar" style="width: 86%"></div>
+											</div>
+								        </li>
+
+							        </ul>
+										
+									</section><!--//resume-section-->
+									
+									<hr>
+									
+									<section class="resume-skills-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i class="resume-section-heading-icon bi bi-person-gear me-2"></i>Soft Skills</h3>
+										<ul class="list-inline">
+								            <li class="list-inline-item"><span class="badge resume-skill-badge">Leadership</span></li>
+								            <li class="list-inline-item"><span class="badge resume-skill-badge">Project Management</span></li>
+								            
+								            <li class="list-inline-item"><span class="badge resume-skill-badge">DevOps</span></li>
+								            <li class="list-inline-item"><span class="badge resume-skill-badge">Public Speaking</span></li>
+								            
+								            				           
+							            </ul>
+									</section><!--//resume-section-->
+									
+									<hr>
+									
+									<section class="resume-projects-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i class="resume-section-heading-icon bi bi-code-slash me-2"></i>Projects</h3>
+										<div class="item">
+											<h4 class="item-heading"><i class="item-icon bi bi-square-fill me-2"></i><a href="#">Project lorem Ipsum</a></h4>
+											<div class="item-desc">
+												Project desc goes here aenean ut libero sit amet ante fermentum scelerisque non a leo.
+											</div>
+										</div><!--//item-->
+										<div class="item">
+											<h4 class="item-heading"><i class="item-icon bi bi-square-fill me-2"></i><a href="#">Volutpat App</a></h4>
+											<div class="item-desc">
+												You can link to your project Github page.
+											</div>
+										</div><!--//item-->
+									
+											
+									</section>
+									
+									<hr>
+									
+									<section class="resume-educate-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i class="resume-section-heading-icon bi bi-book me-2"></i>Education</h3>
+										<ul class="list-unstyled">
+										    <li class="mb-2">
+										        <div class="resume-degree font-weight-bold">MSc in Computer Science</div>
+										        <div class="resume-degree-org">Oxford University</div>
+										        <div class="resume-degree-time">2016 - 2017</div>
+										    </li>
+										    <li>
+										        <div class="resume-degree font-weight-bold">BSc Maths and Physics</div>
+										        <div class="resume-degree-org">University of California, Berkeley</div>
+										        <div class="resume-degree-time">2012 - 2016</div>
+										    </li>
+									    </ul>
+									</section><!--//resume-section-->
+									
+									<hr>
+									
+									<section class="resume-lang-section resume-section">
+										<h3 class="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i class="resume-section-heading-icon bi bi-translate me-2"></i>Languages</h3>
+										 <ul class="list-unstyled resume-lang-list">
+										    <li class="mb-2">
+										        <div class="resume-lang-name">中文</div>
+										        <div class="resume-level-indicator row gx-0 flex-nowrap">
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-half"></span></div>
+										        </div><!--//resume-level-indicator-->
+										    </li>
+										     <li class="mb-2">
+										        <div class="resume-lang-name">英文</div>
+										        <div class="resume-level-indicator row gx-0 flex-nowrap">
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-full"></span></div>
+											        <div class="col"><span class="item item-half"></span></div>
+											        <div class="col"><span class="item"></span></div>
+										        </div><!--//resume-level-indicator-->
+										    </li>
+										</ul>
+									</section>
+									
+									
+									
+								</div><!--//col-side-->
+							</div><!--//row-->
+					    </div><!--//resume-body-->
+				    </div><!--//resume-wrapper-->
+				</div><!--//container-fluid-->
+			</div><!--//main-content-wrapper-->
+		
+		
+		</div><!--//row-->
+	
+	</div><!--//container-->
+	
+	<footer class="footer text-center py-4">
+		<!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
+		<small class="copyright">Designed with <span class="sr-only">love</span><i class="bi bi-heart-fill" style="color:#fe655c"></i> by <a class="theme-link" href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+	</footer>
 	
   </body>
 </html>
